@@ -1,1 +1,2 @@
 # vk-mini
+npm start
