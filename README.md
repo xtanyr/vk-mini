@@ -1,3 +1,5 @@
+This is VK internship contest task built with react, typescript and @vkontakte/vkui library
+
 To run this app you will need to <br>
 1) Clone this repo <code>git clone https://github.com/xtanyr/vk-mini.git</code>
 2) Go into the directory <code>cd vk-mini</code>
